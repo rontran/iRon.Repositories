@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRon.Repositories", "iRon.Repositories\iRon.Repositories.csproj", "{87E2A8B2-0AFC-4404-ADC2-547627913DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRon.Repositories.Example", "iRon.Repositories.Example\iRon.Repositories.Example.csproj", "{741768B7-0A01-40C9-A667-BFE01A389A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87E2A8B2-0AFC-4404-ADC2-547627913DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E2A8B2-0AFC-4404-ADC2-547627913DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E2A8B2-0AFC-4404-ADC2-547627913DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E2A8B2-0AFC-4404-ADC2-547627913DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{741768B7-0A01-40C9-A667-BFE01A389A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741768B7-0A01-40C9-A667-BFE01A389A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741768B7-0A01-40C9-A667-BFE01A389A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741768B7-0A01-40C9-A667-BFE01A389A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1CD7BE2-EF91-4E7A-8CE5-E3144BD2B6AD}
+	EndGlobalSection
+EndGlobal
